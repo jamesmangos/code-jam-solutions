@@ -8,6 +8,7 @@ Problem briefs, input data and output checks
 	Captain Hammer  https://code.google.com/codejam/contest/2845486/dashboard#s=p1
 	File Fix It  https://code.google.com/codejam/contest/635101/dashboard#s=p0
 	Moist  https://code.google.com/codejam/contest/2845486/dashboard
+	Pick Up Chicks  https://code.google.com/codejam/contest/635101/dashboard#s=p1
 	Reverse Words  https://code.google.com/codejam/contest/351101/dashboard#s=p1
 	Rope Intranet  https://code.google.com/codejam/contest/619102/dashboard
 	Store Credit  https://code.google.com/codejam/contest/351101/dashboard#s=p0
