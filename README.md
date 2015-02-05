@@ -11,5 +11,6 @@ Problem briefs, input data and output checks
 	Pick Up Chicks  https://code.google.com/codejam/contest/635101/dashboard#s=p1
 	Reverse Words  https://code.google.com/codejam/contest/351101/dashboard#s=p1
 	Rope Intranet  https://code.google.com/codejam/contest/619102/dashboard
+	Rotate  https://code.google.com/codejam/contest/544101/dashboard#s=p0
 	Store Credit  https://code.google.com/codejam/contest/351101/dashboard#s=p0
 	T9 Spelling  https://code.google.com/codejam/contest/351101/dashboard#s=p2
