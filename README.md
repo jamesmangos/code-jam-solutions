@@ -4,6 +4,7 @@ More solutions will be added as they are completed.
 
 Problem briefs, input data and output checks
 	Alien Numbers  https://code.google.com/codejam/contest/dashboard?c=agxjb2RlamFtLXByb2RyEAsSCGNvbnRlc3RzGIP6AQw#
+	All Your Base  https://code.google.com/codejam/contest/189252/dashboard#s=p0
 	Always Turn Left  https://code.google.com/codejam/contest/dashboard?c=agxjb2RlamFtLXByb2RyEAsSCGNvbnRlc3RzGIP6AQw#s=p1
 	Captain Hammer  https://code.google.com/codejam/contest/2845486/dashboard#s=p1
 	File Fix It  https://code.google.com/codejam/contest/635101/dashboard#s=p0
