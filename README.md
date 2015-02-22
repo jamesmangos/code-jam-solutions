@@ -8,6 +8,7 @@ Problem briefs, input data and output checks
 	Always Turn Left  https://code.google.com/codejam/contest/dashboard?c=agxjb2RlamFtLXByb2RyEAsSCGNvbnRlc3RzGIP6AQw#s=p1
 	Captain Hammer  https://code.google.com/codejam/contest/2845486/dashboard#s=p1
 	File Fix It  https://code.google.com/codejam/contest/635101/dashboard#s=p0
+	Minimum Scalar Product  https://code.google.com/codejam/contest/32016/dashboard#s=p0
 	Moist  https://code.google.com/codejam/contest/2845486/dashboard
 	Pick Up Chicks  https://code.google.com/codejam/contest/635101/dashboard#s=p1
 	Reverse Words  https://code.google.com/codejam/contest/351101/dashboard#s=p1
