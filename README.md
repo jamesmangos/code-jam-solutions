@@ -3,6 +3,7 @@ Solutions by James Mangos.
 More solutions will be added as they are completed.
 
 Problem briefs, input data and output checks
+	Alien Language https://code.google.com/codejam/contest/90101/dashboard#s=p0
 	Alien Numbers  https://code.google.com/codejam/contest/dashboard?c=agxjb2RlamFtLXByb2RyEAsSCGNvbnRlc3RzGIP6AQw#
 	All Your Base  https://code.google.com/codejam/contest/189252/dashboard#s=p0
 	Always Turn Left  https://code.google.com/codejam/contest/dashboard?c=agxjb2RlamFtLXByb2RyEAsSCGNvbnRlc3RzGIP6AQw#s=p1
